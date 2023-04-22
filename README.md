@@ -14,7 +14,7 @@
 ### Skills
 * Proficient in Excel, Intermediate in SQL and Python.
 * Familiar with JAVA and JAVA Android.
-* Experience with WordPress Websties, Graphic Design tools like Illustrator, Adobe Cloud, Figma. 
+* Experience with WordPress Websites, Graphic Design tools like Illustrator, Adobe Cloud, Figma. 
 * Reliable, proactive, a team player, Strong attention to detail and problem-solving skills/
 
 ###
@@ -42,12 +42,12 @@
 ###
 
 ### Interests
-* Data Analysis, Tracking and surveillance equipments and techniques
+* Data Analysis, Tracking and Surveillance
 * Bird-Watching and Wildlife Conservation
 * Hiking and Outdoor Adventure
-* Patient Advocacy and Education
+* Patient Advocacy and Empowerment
 * Healthcare Policy and Legislation
-* Data Protection
+* Data Protection and Privacy
 
 
 ### Contact
