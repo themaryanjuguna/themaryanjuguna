@@ -5,11 +5,36 @@
 
 <p align="left"> <a href="https://twitter.com/themaryanjuguna" target="blank"><img src="https://img.shields.io/twitter/follow/themaryanjuguna?logo=twitter&style=for-the-badge" alt="themaryanjuguna" /></a> </p>
 
-- 🔭 I’m currently a Computer Science student at [ Kibo School](https://kibo.school/)
+- 🔭 I’m currently a **Computer Science student** at [ Kibo School](https://kibo.school/)
 - 🌱 I’m currently learning **Python**
-- 💞️ I’m looking to collaborate on [usingiziinitiative](https://themaryanjuguna.github.io/usingiziinitiative/)
+- 💞️ I’m looking to collaborate on **[usingiziinitiative](https://themaryanjuguna.github.io/usingiziinitiative/)**
 - 💬 Ask me about **Narcolepsy Sleep Disorder**
 - 📫 How to reach me **themaryanjuguna@gmail.com** | **[ Linktr.ee](https://linktr.ee/themaryanjuguna)**
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" width="52" alt="illustrator logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" width="52" alt="premierpro logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angular logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" alt="java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="40" width="52" alt="android logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgresql logo"/> 
+</div>
+
+<p></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themaryanjuguna&show_icons=true&locale=en" alt="themaryanjuguna" /></p>
+
 
 <!---
 themaryanjuguna/themaryanjuguna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
