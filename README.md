@@ -9,8 +9,15 @@
 - 🌱 I’m currently learning **Python**
 - 💞️ I’m looking to collaborate on **[usingiziinitiative](https://themaryanjuguna.github.io/usingiziinitiative/)**
 - 💬 Ask me about **Narcolepsy Sleep Disorder**
-- 📫 How to reach me **themaryanjuguna@gmail.com** | **[ Linktr.ee](https://linktr.ee/themaryanjuguna)**
+- 🎨 Know about my experiences **[Graphic Design Portfolio](https://drive.google.com/file/d/1E9eB7inHoGkeppaxZ98GcgxWQnk0h08Q/view)** | **[Website](http://maryannenjuguna.com/)**
 
+### Skills
+* Proficient in Excel, Intermediate in SQL and Python.
+* Familiar with JAVA and JAVA Android.
+* Experience with WordPress Websties, Graphic Design tools like Illustrator, Adobe Cloud, Figma. 
+* Reliable, proactive, a team player, Strong attention to detail and problem-solving skills/
+
+###
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"/>
@@ -32,7 +39,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgresql logo"/> 
 </div>
 
-<p></p>
+###
+
+### Interests
+* Data Analysis, Tracking and surveillance equipments and techniques
+* Bird-Watching and Wildlife Conservation
+* Hiking and Outdoor Adventure
+* Patient Advocacy and Education
+* Healthcare Policy and Legislation
+* Data Protection
+
+
+### Contact
+- 📫 How to reach me **[Email](themaryanjuguna@gmail.com)** | **[ Linktr.ee](https://linktr.ee/themaryanjuguna)**
+
+###
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themaryanjuguna&show_icons=true&locale=en" alt="themaryanjuguna" /></p>
 
 
