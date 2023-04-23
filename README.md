@@ -16,7 +16,7 @@
 * Proficient in Excel, Intermediate in SQL and Python.
 * Familiar with JAVA and JAVA Android.
 * Experience with WordPress Websites, Graphic Design tools like Illustrator, Adobe Cloud, Figma. 
-* Reliable, proactive, a team player, Strong attention to detail and problem-solving skills/
+* Reliable, proactive, a team player, Strong attention to detail and problem-solving skills.
 
 ###
 <h3 align="left">Languages and Tools:</h3>
