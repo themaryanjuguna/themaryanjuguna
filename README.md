@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Maryanne Njuguna aka themaryanjuguna</h1>
-<h3 align="center">An aspiring UI/UX Designer with an experience in Graphic Web Design from Nairobi, Kenya</h3>
+<h1 align="center">Hello 👋, I'm Nyambura aka themaryanjuguna</h1>
+<h3 align="center">A Juniour Product Designer with an experience in Graphic Web Design from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themaryanjuguna&label=Profile%20views&color=0e75b6&style=flat" alt="themaryanjuguna" /> </p>
 
