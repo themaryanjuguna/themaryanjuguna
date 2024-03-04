@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Python**
 - 💞️ I’m looking to collaborate on **[usingiziinitiative](https://themaryanjuguna.github.io/usingiziinitiative/)**
 - 💬 Ask me about **Narcolepsy Sleep Disorder**
-- 🎨 Know about my experiences **[Graphic Design Portfolio](https://drive.google.com/file/d/1E9eB7inHoGkeppaxZ98GcgxWQnk0h08Q/view)** | **[Website](http://maryannenjuguna.com/)**
+- 🎨 Know about my experiences **[Portfolio](https://themaryanjuguna.github.io/portfolio/)** | **[Website](http://maryannenjuguna.co.ke/)**
 
 ### Skills
 * Proficient in Excel, Intermediate in SQL and Python.
@@ -42,12 +42,12 @@
 ###
 
 ### Interests
-* Data Analysis, Tracking and Surveillance
-* Bird-Watching and Wildlife Conservation
-* Hiking and Outdoor Adventure
-* Patient Advocacy and Empowerment
-* Healthcare Policy and Legislation
-* Data Protection and Privacy
+* **Technical Skills:** Angular, ReactJS Python, HTML, CSS, JavaScript, WordPress, Excel
+* **Tools:** VSCode, Figma, Adobe Creative Cloud, Microsoft Office Inkscape, Notion
+* **Certifications and Training:** Moringa School Bootcamp, Rising Voices of Narcolepsy Advocate, NCDs Advocate
+* **Languages:** Kiswahili - Advanced, English - Advanced
+* **Interests:**  Hiking, bird-watching, Patient Advocacy, Wildlife Conservation
+
 
 
 ### Contact
