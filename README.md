@@ -13,10 +13,11 @@
 - 🎨 Know about my experiences **[Portfolio](https://themaryanjuguna.github.io/portfolio/)** | **[Website](http://maryannenjuguna.co.ke/)**
 
 ### Skills
-* Proficient in Excel, Intermediate in SQL and Python.
-* Familiar with JAVA and JAVA Android.
-* Experience with WordPress Websites, Graphic Design tools like Illustrator, Adobe Cloud, Figma. 
-* Reliable, proactive, a team player, Strong attention to detail and problem-solving skills.
+* **Technical Skills:** Angular, ReactJS Python, HTML, CSS, JavaScript, WordPress, Excel
+* **Tools:** VSCode, Figma, Adobe Creative Cloud, Microsoft Office Inkscape, Notion
+* **Certifications and Training:** Moringa School Bootcamp, Rising Voices of Narcolepsy Advocate, NCDs Advocate
+* **Languages:** Kiswahili - Advanced, English - Advanced
+* **Interests:**  Hiking, bird-watching, Patient Advocacy, Wildlife Conservation
 
 ###
 <h3 align="left">Languages and Tools:</h3>
@@ -40,14 +41,6 @@
 </div>
 
 ###
-
-### Interests
-* **Technical Skills:** Angular, ReactJS Python, HTML, CSS, JavaScript, WordPress, Excel
-* **Tools:** VSCode, Figma, Adobe Creative Cloud, Microsoft Office Inkscape, Notion
-* **Certifications and Training:** Moringa School Bootcamp, Rising Voices of Narcolepsy Advocate, NCDs Advocate
-* **Languages:** Kiswahili - Advanced, English - Advanced
-* **Interests:**  Hiking, bird-watching, Patient Advocacy, Wildlife Conservation
-
 
 
 ### Contact
