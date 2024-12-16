@@ -5,12 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/themaryanjuguna" target="blank"><img src="https://img.shields.io/twitter/follow/themaryanjuguna?logo=twitter&style=for-the-badge" alt="themaryanjuguna" /></a> </p>
 
-- 🔭 I’m currently a **Computer Science student** at [ Kibo School](https://kibo.school/)
-- 👩🏾‍💻 I help build WordPress Website and design marketing materials that bring your brand to life, taking your online presence to the next level!
-- 🌱 I’m currently learning **Python**
+- 🔭 My current ** [Portfolio ](https://themaryanjuguna.github.io/portfolio/)
+- 🎨  I help build WordPress Website and design marketing materials that bring your brand to life, taking your online presence to the next level!
+- 🌱 I’m currently watching **The Dragon Prince** on replay
 - 💞️ I’m looking to collaborate on **[usingiziinitiative](https://themaryanjuguna.github.io/usingiziinitiative/)**
 - 💬 Ask me about **Narcolepsy Sleep Disorder**
-- 🎨 Know about my experiences **[Portfolio](https://themaryanjuguna.github.io/portfolio/)** | **[Website](http://maryannenjuguna.co.ke/)**
 
 ### Skills
 * **Technical Skills:** Angular, ReactJS Python, HTML, CSS, JavaScript, WordPress, Excel
