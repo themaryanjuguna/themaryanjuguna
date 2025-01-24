@@ -14,9 +14,9 @@
 ### Skills
 * **Technical Skills:** Angular, ReactJS Python, HTML, CSS, JavaScript, WordPress, Excel
 * **Tools:** VSCode, Figma, Adobe Creative Cloud, Microsoft Office Inkscape, Notion
-* **Certifications and Training:** Moringa School Bootcamp, Rising Voices of Narcolepsy Advocate, NCDs Advocate
+* **Certifications and Training:** Kibo School of Technology, Moringa School, and Graffins College
 * **Languages:** Kiswahili - Advanced, English - Advanced
-* **Interests:**  Hiking, bird-watching, Patient Advocacy, Wildlife Conservation
+* **Interests:**  Hiking, bird-watching, Patient Advocacy, and Psychology
 
 ###
 <h3 align="left">Languages and Tools:</h3>
