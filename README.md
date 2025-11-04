@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Nyambura</h1>
-<h3 align="center">Frontend Developer | Graphic Dseigner</h3>
+<h3 align="center">Web & Frontend Development Consultant | Branding & Design Consultant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themaryanjuguna&label=Profile%20views&color=0e75b6&style=flat" alt="themaryanjuguna" /> </p>
 
 <p align="left"> <a href="https://twitter.com/themaryanjuguna" target="blank"><img src="https://img.shields.io/twitter/follow/themaryanjuguna?logo=twitter&style=for-the-badge" alt="themaryanjuguna" /></a> </p>
 
-- 🔭 My current **[Portfolio ](https://themaryanjuguna.github.io/portfolio/)** | **[Behance Projects]([https://themaryanjuguna.github.io/portfolio/](https://www.behance.net/themaryanjuguna))**
+- 🔭 My current **[Portfolio ](https://maryanjuguna.wordpress.com/)** | **[Behance Projects]([https://themaryanjuguna.github.io/portfolio/](https://www.behance.net/themaryanjuguna))**
 - 🎨  I help build WordPress Websites and design marketing materials that bring your brand to life, taking your online presence to the next level!
-- 🌱 I’m currently watching **The Dragon Prince** on replay
+- 🌱 I’m currently watching **Dr. House M.D** on replay
 - 💞️ I’m working on **[usingiziinitiative](https://linktr.ee/usingiziinitiative)** | **[Scatterbrain Hub](https://linktr.ee/scatterbrainhub)**
 - 💬 Ask me about **Narcolepsy Sleep Disorder**
 
