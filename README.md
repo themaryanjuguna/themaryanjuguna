@@ -121,7 +121,7 @@ Good software shouldn’t punish people for being human.
 - 💼 LinkedIn —  [LinkedIn ](https://www.linkedin.com/in/themaryanjuguna/)
 - ✍️ Blog / Writing — [Blog ](https://maryanjuguna.wordpress.com/blog)  
 - 🌙 Usingizi Initiative — [usingiziinitiative](https://linktr.ee/usingiziinitiative)
-- 📫 How to reach me [Email](themaryanjuguna@gmail.com) | [ Linktr.ee](https://linktr.ee/themaryanjuguna)
+- 📫 How to reach me - [Email](themaryanjuguna@gmail.com) | [ Linktr.ee](https://linktr.ee/themaryanjuguna)
 
 ---
 
