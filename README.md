@@ -1,47 +1,141 @@
-<h1 align="center">Hello 👋, I'm Nyambura</h1>
-<h3 align="center">Web & Frontend Development Consultant | Branding & Design Consultant</h3>
+<div align="center">
+
+# 👋 Hi, I’m Maryanne Njũgũna
+
+### WordPress Designer • Front-End Developer • Product Thinker
+
+I build **accessible, human-centered digital products** where design, engineering, and real life actually meet.
+
+</div>
+
+---
+
+## About Me
+
+I’m a **WordPress Designer and Front-End Developer** with 6+ years in design and WordPress, and growing depth in modern front-end development.
+
+I focus on building products that are:
+- performance-conscious  
+- accessibility-aware  
+- emotionally intelligent (yes, that’s a thing)
+
+Some projects are client-facing.  
+Some are experimental.  
+Some exist because the current tools simply aren’t humane enough.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themaryanjuguna&label=Profile%20views&color=0e75b6&style=flat" alt="themaryanjuguna" /> </p>
 
 <p align="left"> <a href="https://twitter.com/themaryanjuguna" target="blank"><img src="https://img.shields.io/twitter/follow/themaryanjuguna?logo=twitter&style=for-the-badge" alt="themaryanjuguna" /></a> </p>
 
-- 🔭 My current **[Portfolio ](https://maryanjuguna.wordpress.com/)** | **[Behance Projects]([https://themaryanjuguna.github.io/portfolio/](https://www.behance.net/themaryanjuguna))**
-- 🎨  I help build WordPress Websites and design marketing materials that bring your brand to life, taking your online presence to the next level!
-- 🌱 I’m currently watching **Dr. House M.D** on replay
-- 💞️ I’m working on **[usingiziinitiative](https://linktr.ee/usingiziinitiative)** | **[Scatterbrain Hub](https://linktr.ee/scatterbrainhub)**
-- 💬 Ask me about **Narcolepsy Sleep Disorder**
+---
 
-### Skills
-* **Technical Skills:** ReactJS, HTML, CSS, JavaScript, WordPress, Excel
-* **Tools:** VSCode, Figma, Adobe Creative Cloud, Microsoft Office Inkscape, Notion
-* **Certifications and Training:** Kibo School of Technology, Moringa School, and Graffins College
-* **Languages:** Kiswahili - Advanced, English - Advanced
-* **Interests:**  Hiking, bird-watching, Patient Advocacy, and Psychology
+## What I’m Working On
 
-###
-<h3 align="left">Languages and Tools:</h3>
+### 🔹 Web & Product Development: 
+- Custom WordPress & WooCommerce builds  
+- SEO-ready, scalable, performance-optimized sites  
+- Design systems that don’t fight developers later  
+
+### 🔹 Front-End Applications
+- React + Vite  
+- Firebase (Auth, Firestore)  
+- Tailwind CSS + ShadCN UI  
+- TanStack Router & Query  
+
+### 🔹 Health-Tech & Sleep Tools
+- Sleep logging and fatigue-aware UX  
+- Circadian rhythm–informed prototypes  
+- Apps shaped by lived experience and research  
+
+### 🔹 Product Experiments
+- Fast MVPs  
+- Idea validation builds  
+- “Should this exist?” projects  
+
+---
+
+## How My Projects Are Organized
+
+I work across **three clear lanes** to stay intentional:
+
+### Personal / Professional
+Production-ready work, client projects, and polished tools. This is where reliability lives.
+
+### ScatterBrain Hub
+A **product lab** for experimental ideas and non-health apps. Exploration without pressure — but with structure.
+
+### 🌙 Usingizi Initiative
+Mission-driven work focused on:
+- sleep health  
+- neurological conditions  
+- awareness through technology  
+
+Different lanes. One builder.
+
+---
+
+## Tech Stack
+
+### 🎨 Design
+- Figma  
+- Adobe Creative Suite  
+- Inkscape  
+
+### 💻 Front End
+- HTML, CSS, JavaScript  
+- React  
+- Vite  
+- Tailwind CSS  
+- ShadCN UI  
+
+### 🔥 Backend & Infra
+- Firebase  
+- WordPress (custom themes & plugins)  
+- WooCommerce  
+- DNS & Database Management  
+
+### 📦 Product Thinking
+- MVP-first development  
+- Accessibility-first decisions  
+- SEO & performance optimization  
+
+---
+
+## 🌍 Why I Build This Way
+
+I live with **narcolepsy**, a neurological sleep disorder.
+
+That experience deeply informs how I think about:
+- fatigue-aware interfaces  
+- humane defaults  
+- flexibility over grind culture  
+- designing tools that respect human limits  
+
+Good software shouldn’t punish people for being human.
+
+---
+
+## 🔗 Find Me Elsewhere
+
+- 🌐 Portfolio — [Portfolio ](https://maryanjuguna.wordpress.com/blog) | [Behance Projects](https://www.behance.net/themaryanjuguna)
+- 💼 LinkedIn —  [LinkedIn ](https://www.linkedin.com/in/themaryanjuguna/)
+- ✍️ Blog / Writing — [Blog ](https://maryanjuguna.wordpress.com/blog)  
+- 🌙 Usingizi Initiative — [usingiziinitiative](https://linktr.ee/usingiziinitiative)
+- 📫 How to reach me [Email](themaryanjuguna@gmail.com) | [ Linktr.ee](https://linktr.ee/themaryanjuguna)
+
+---
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" width="52" alt="illustrator logo"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" width="52" alt="premierpro logo"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="40" width="52" alt="android logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"/> 
+
+### ✨ Current Focus
+
+ - **Building fewer things — better.**  
+ - **Shipping with intention.**
+ - **Designing for people, not just users.**
+
 </div>
 
-###
 
-
-### Contact
-- 📫 How to reach me **[Email](themaryanjuguna@gmail.com)** | **[ Linktr.ee](https://linktr.ee/themaryanjuguna)**
-
-###
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themaryanjuguna&show_icons=true&locale=en" alt="themaryanjuguna" /></p>
 
 
