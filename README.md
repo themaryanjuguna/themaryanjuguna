@@ -135,11 +135,11 @@ Good software shouldn’t punish people for being human.
 
 </div>
 
-
+<!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themaryanjuguna&show_icons=true&locale=en" alt="themaryanjuguna" /></p>
 
 
-<!---
+
 themaryanjuguna/themaryanjuguna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
